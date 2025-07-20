@@ -24,9 +24,8 @@ A clean, lightweight iOS weather app built using **Swift + UIKit + MVVM + Alamof
 ## 📱 Screenshots
 <img width="1179" height="2556" alt="simulator_screenshot_300CFCF4-DCF1-49A0-A840-96766368DE70" src="https://github.com/user-attachments/assets/3ba23509-cda5-475a-88a8-af193bd5621b" />
 
-*(Insert screenshots here if available)*
-
----
+## 📱 Video
+https://github.com/user-attachments/assets/f5d3cc25-9b6e-44e2-b13b-6384d9a9ea00
 
 ## 🧱 Architecture Overview
 
